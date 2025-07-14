@@ -10,8 +10,10 @@
 
 Master essential networking concepts and skills with hands-on labs. This course covers network fundamentals, implementation, operations, security, and troubleshooting, preparing you for the CompTIA Network+ certification (N10-009).
 
-![Networking](https://img.shields.io/badge/Networking-whitesmoke?style=for-the-badge&logo=networking)
+![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
 ![CompTIA](https://img.shields.io/badge/CompTIA-whitesmoke?style=for-the-badge&logo=comptia)
+![Network](https://img.shields.io/badge/Network-whitesmoke?style=for-the-badge&logo=network)
+![Certification](https://img.shields.io/badge/Certification-whitesmoke?style=for-the-badge&logo=certification)
 
 
 ## Environment
@@ -30,15 +32,20 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                                     | Difficulty   | Practice                                                                                                                                     |
-|---------|----------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------|
-|       1 | 📖 Identify MAC and IP Addresses in Linux                | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-identify-mac-and-ip-addresses-in-linux-592731'>Start Lab</a>                       |
-|       2 | 📖 Manage IP Addressing in Linux                         | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-manage-ip-addressing-in-linux-592736'>Start Lab</a>                                |
-|       3 | 📖 Analyze Network Ports and Sessions with netstat in... | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-analyze-network-ports-and-sessions-with-netstat-in-linux-592741'>Start Lab</a>     |
-|       4 | 📖 Explore Network Layer Interaction with ping and ar... | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-explore-network-layer-interaction-with-ping-and-arp-in-linux-592746'>Start Lab</a> |
-|       5 | 📖 Simulate Network Layer Connectivity in Linux          | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-simulate-network-layer-connectivity-in-linux-592752'>Start Lab</a>                 |
-|       6 | 📖 Examine Network Interface Settings with ethtool in... | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-examine-network-interface-settings-with-ethtool-in-linux-592759'>Start Lab</a>     |
-|       7 | 📖 Analyze Ethernet Frames with tcpdump in Linux         | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-analyze-ethernet-frames-with-tcpdump-in-linux-592765'>Start Lab</a>                |
+|   Index | Name                                                     | Difficulty   | Practice                                                                                                                                          |
+|---------|----------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 Identify MAC and IP Addresses in Linux                | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-identify-mac-and-ip-addresses-in-linux-592731'>Start Lab</a>                            |
+|      02 | 📖 Manage IP Addressing in Linux                         | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-manage-ip-addressing-in-linux-592736'>Start Lab</a>                                     |
+|      03 | 📖 Analyze Network Ports and Sessions with netstat in... | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-analyze-network-ports-and-sessions-with-netstat-in-linux-592741'>Start Lab</a>          |
+|      04 | 📖 Explore Network Layer Interaction with ping and ar... | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-explore-network-layer-interaction-with-ping-and-arp-in-linux-592746'>Start Lab</a>      |
+|      05 | 📖 Simulate Network Layer Connectivity in Linux          | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-simulate-network-layer-connectivity-in-linux-592752'>Start Lab</a>                      |
+|      06 | 📖 Examine Network Interface Settings with ethtool in... | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-examine-network-interface-settings-with-ethtool-in-linux-592759'>Start Lab</a>          |
+|      07 | 📖 Analyze Ethernet Frames with tcpdump in Linux         | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-analyze-ethernet-frames-with-tcpdump-in-linux-592765'>Start Lab</a>                     |
+|      08 | 📖 Explore IP Address Types and Reachability in Linux    | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-explore-ip-address-types-and-reachability-in-linux-592780'>Start Lab</a>                |
+|      09 | 📖 Perform IP Subnetting and Binary Conversion in the... | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-perform-ip-subnetting-and-binary-conversion-in-the-linux-terminal-592782'>Start Lab</a> |
+|      10 | 📖 Manage Local Hostname Resolution in Linux             | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-manage-local-hostname-resolution-in-linux-592792'>Start Lab</a>                         |
+|      11 | 📖 Query DNS Records in Linux with dig and nslookup      | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-query-dns-records-in-linux-with-dig-and-nslookup-592796'>Start Lab</a>                  |
+|      12 | 📖 Set Up a Local Authoritative DNS Server on Linux      | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-set-up-a-local-authoritative-dns-server-on-linux-592803'>Start Lab</a>                  |
 
 ## More
 
