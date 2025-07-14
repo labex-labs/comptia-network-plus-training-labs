@@ -10,8 +10,10 @@
 
 Освойте основные сетевые концепции и навыки с помощью практических лабораторных работ. Этот курс охватывает основы сетей, их внедрение, эксплуатацию, безопасность и устранение неполадок, подготавливая вас к сертификации CompTIA Network+ (N10-009).
 
-![Networking](https://img.shields.io/badge/Networking-whitesmoke?style=for-the-badge&logo=networking)
+![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
 ![CompTIA](https://img.shields.io/badge/CompTIA-whitesmoke?style=for-the-badge&logo=comptia)
+![Network](https://img.shields.io/badge/Network-whitesmoke?style=for-the-badge&logo=network)
+![Certification](https://img.shields.io/badge/Certification-whitesmoke?style=for-the-badge&logo=certification)
 
 
 ## Среда
@@ -30,15 +32,20 @@ LabEx - это интерактивная практическая обучаю�
 
 ## Упражнения
 
-|   Индекс | Название                                                 | Сложность   | Практика                                                                                                                                                 |
-|----------|----------------------------------------------------------|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 Определение MAC и IP-адресов в Linux                  | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-identify-mac-and-ip-addresses-in-linux-592731'>Начать Лабораторию</a>                       |
-|        2 | 📖 Управление IP-адресацией в Linux                      | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-manage-ip-addressing-in-linux-592736'>Начать Лабораторию</a>                                |
-|        3 | 📖 Анализ сетевых портов и сеансов с помощью netstat ... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-analyze-network-ports-and-sessions-with-netstat-in-linux-592741'>Начать Лабораторию</a>     |
-|        4 | 📖 Исследование взаимодействия сетевых уровней с помо... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-explore-network-layer-interaction-with-ping-and-arp-in-linux-592746'>Начать Лабораторию</a> |
-|        5 | 📖 Симуляция сетевой связности в Linux                   | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-simulate-network-layer-connectivity-in-linux-592752'>Начать Лабораторию</a>                 |
-|        6 | 📖 Изучение настроек сетевого интерфейса с помощью et... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-examine-network-interface-settings-with-ethtool-in-linux-592759'>Начать Лабораторию</a>     |
-|        7 | 📖 Анализ Ethernet-кадров с помощью tcpdump в Linux      | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-analyze-ethernet-frames-with-tcpdump-in-linux-592765'>Начать Лабораторию</a>                |
+|   Индекс | Название                                                 | Сложность   | Практика                                                                                                                                                      |
+|----------|----------------------------------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖 Определение MAC и IP-адресов в Linux                  | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-identify-mac-and-ip-addresses-in-linux-592731'>Начать Лабораторию</a>                            |
+|       02 | 📖 Управление IP-адресацией в Linux                      | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-manage-ip-addressing-in-linux-592736'>Начать Лабораторию</a>                                     |
+|       03 | 📖 Анализ сетевых портов и сеансов с помощью netstat ... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-analyze-network-ports-and-sessions-with-netstat-in-linux-592741'>Начать Лабораторию</a>          |
+|       04 | 📖 Исследование взаимодействия сетевых уровней с помо... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-explore-network-layer-interaction-with-ping-and-arp-in-linux-592746'>Начать Лабораторию</a>      |
+|       05 | 📖 Симуляция сетевой связности в Linux                   | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-simulate-network-layer-connectivity-in-linux-592752'>Начать Лабораторию</a>                      |
+|       06 | 📖 Изучение настроек сетевого интерфейса с помощью et... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-examine-network-interface-settings-with-ethtool-in-linux-592759'>Начать Лабораторию</a>          |
+|       07 | 📖 Анализ Ethernet-кадров с помощью tcpdump в Linux      | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-analyze-ethernet-frames-with-tcpdump-in-linux-592765'>Начать Лабораторию</a>                     |
+|       08 | 📖 Исследование типов IP-адресов и доступности сети в... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-explore-ip-address-types-and-reachability-in-linux-592780'>Начать Лабораторию</a>                |
+|       09 | 📖 Выполнение подсетей IP и двоичного преобразования ... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-perform-ip-subnetting-and-binary-conversion-in-the-linux-terminal-592782'>Начать Лабораторию</a> |
+|       10 | 📖 Управление локальным разрешением имен хостов в Lin... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-manage-local-hostname-resolution-in-linux-592792'>Начать Лабораторию</a>                         |
+|       11 | 📖 Запрос DNS-записей в Linux с помощью dig и nslooku... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-query-dns-records-in-linux-with-dig-and-nslookup-592796'>Начать Лабораторию</a>                  |
+|       12 | 📖 Настройка локального авторитетного DNS-сервера на ... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-set-up-a-local-authoritative-dns-server-on-linux-592803'>Начать Лабораторию</a>                  |
 
 ## Больше
 
