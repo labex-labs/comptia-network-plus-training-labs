@@ -16,6 +16,23 @@ Domina los conceptos y habilidades esenciales de redes con laboratorios práctic
 ![Certification](https://img.shields.io/badge/Certification-whitesmoke?style=for-the-badge&logo=certification)
 
 
+## Ejercicios
+
+|   Índice | Nombre                                                      | Dificultad   | Práctica                                                                                                                                                       |
+|----------|-------------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖 🔵 Identificar direcciones MAC y IP en Linux             | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-identify-mac-and-ip-addresses-in-linux-592731'>Iniciar Laboratorio</a>                            |
+|       02 | 📖 🔵 Gestionar Direccionamiento IP en Linux                | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-manage-ip-addressing-in-linux-592736'>Iniciar Laboratorio</a>                                     |
+|       03 | 📖 🔵 Analizar Puertos y Sesiones de Red con netstat en ... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-analyze-network-ports-and-sessions-with-netstat-in-linux-592741'>Iniciar Laboratorio</a>          |
+|       04 | 📖 🔵 Explora la Interacción de Capa de Red con ping y a... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-explore-network-layer-interaction-with-ping-and-arp-in-linux-592746'>Iniciar Laboratorio</a>      |
+|       05 | 📖 🔵 Simular Conectividad de Capa de Red en Linux          | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-simulate-network-layer-connectivity-in-linux-592752'>Iniciar Laboratorio</a>                      |
+|       06 | 📖 🔵 Examinar la configuración de la interfaz de red co... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-examine-network-interface-settings-with-ethtool-in-linux-592759'>Iniciar Laboratorio</a>          |
+|       07 | 📖 🔵 Analizar tramas Ethernet con tcpdump en Linux         | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-analyze-ethernet-frames-with-tcpdump-in-linux-592765'>Iniciar Laboratorio</a>                     |
+|       08 | 📖 🔵 Explorar Tipos de Direcciones IP y Alcanzabilidad ... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-explore-ip-address-types-and-reachability-in-linux-592780'>Iniciar Laboratorio</a>                |
+|       09 | 📖 🟢 Realizar Subredes IP y Conversión Binaria en la Te... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-perform-ip-subnetting-and-binary-conversion-in-the-linux-terminal-592782'>Iniciar Laboratorio</a> |
+|       10 | 📖 🔵 Administrar la resolución de nombres de host local... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-manage-local-hostname-resolution-in-linux-592792'>Iniciar Laboratorio</a>                         |
+|       11 | 📖 🔵 Consultar Registros DNS en Linux con dig y nslooku... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-query-dns-records-in-linux-with-dig-and-nslookup-592796'>Iniciar Laboratorio</a>                  |
+|       12 | 📖 🔵 Configurar un Servidor DNS Autoritativo Local en L... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-set-up-a-local-authoritative-dns-server-on-linux-592803'>Iniciar Laboratorio</a>                  |
+
 ## Entorno
 
 LabEx es una plataforma de aprendizaje interactiva y práctica dedicada a la programación y la tecnología. Combina laboratorios, asistencia de IA y máquinas virtuales para proporcionar una experiencia de aprendizaje práctica sin videos.
@@ -29,23 +46,6 @@ LabEx es una plataforma de aprendizaje interactiva y práctica dedicada a la pro
 - El asistente de aprendizaje Labby, construido sobre los últimos modelos de IA, que proporciona una experiencia de aprendizaje conversacional.
 
 Aprende más sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## Ejercicios
-
-|   Índice | Nombre                                                   | Dificultad   | Práctica                                                                                                                                                       |
-|----------|----------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Identificar direcciones MAC y IP en Linux             | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-identify-mac-and-ip-addresses-in-linux-592731'>Iniciar Laboratorio</a>                            |
-|       02 | 📖 Gestionar Direccionamiento IP en Linux                | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-manage-ip-addressing-in-linux-592736'>Iniciar Laboratorio</a>                                     |
-|       03 | 📖 Analizar Puertos y Sesiones de Red con netstat en ... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-analyze-network-ports-and-sessions-with-netstat-in-linux-592741'>Iniciar Laboratorio</a>          |
-|       04 | 📖 Explora la Interacción de Capa de Red con ping y a... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-explore-network-layer-interaction-with-ping-and-arp-in-linux-592746'>Iniciar Laboratorio</a>      |
-|       05 | 📖 Simular Conectividad de Capa de Red en Linux          | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-simulate-network-layer-connectivity-in-linux-592752'>Iniciar Laboratorio</a>                      |
-|       06 | 📖 Examinar la configuración de la interfaz de red co... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-examine-network-interface-settings-with-ethtool-in-linux-592759'>Iniciar Laboratorio</a>          |
-|       07 | 📖 Analizar tramas Ethernet con tcpdump en Linux         | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-analyze-ethernet-frames-with-tcpdump-in-linux-592765'>Iniciar Laboratorio</a>                     |
-|       08 | 📖 Explorar Tipos de Direcciones IP y Alcanzabilidad ... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-explore-ip-address-types-and-reachability-in-linux-592780'>Iniciar Laboratorio</a>                |
-|       09 | 📖 Realizar Subredes IP y Conversión Binaria en la Te... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-perform-ip-subnetting-and-binary-conversion-in-the-linux-terminal-592782'>Iniciar Laboratorio</a> |
-|       10 | 📖 Administrar la resolución de nombres de host local... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-manage-local-hostname-resolution-in-linux-592792'>Iniciar Laboratorio</a>                         |
-|       11 | 📖 Consultar Registros DNS en Linux con dig y nslooku... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-query-dns-records-in-linux-with-dig-and-nslookup-592796'>Iniciar Laboratorio</a>                  |
-|       12 | 📖 Configurar un Servidor DNS Autoritativo Local en L... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-set-up-a-local-authoritative-dns-server-on-linux-592803'>Iniciar Laboratorio</a>                  |
 
 ## Más
 
