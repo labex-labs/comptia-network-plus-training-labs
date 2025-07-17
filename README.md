@@ -32,6 +32,13 @@ Master essential networking concepts and skills with hands-on labs. This course 
 |      10 | 📖 🔵 Manage Local Hostname Resolution in Linux             | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-manage-local-hostname-resolution-in-linux-592792'>Start Lab</a>                         |
 |      11 | 📖 🔵 Query DNS Records in Linux with dig and nslookup      | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-query-dns-records-in-linux-with-dig-and-nslookup-592796'>Start Lab</a>                  |
 |      12 | 📖 🔵 Set Up a Local Authoritative DNS Server on Linux      | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-set-up-a-local-authoritative-dns-server-on-linux-592803'>Start Lab</a>                  |
+|      13 | 📖 🔵 Secure Remote Access in Linux with SSH                | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-secure-remote-access-in-linux-with-ssh-592816'>Start Lab</a>                            |
+|      14 | 📖 🔵 HTTPS with a Self-Signed Certificate on Nginx in L... | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-https-with-a-self-signed-certificate-on-nginx-in-linux-592820'>Start Lab</a>            |
+|      15 | 📖 🔵 Secure Network Monitoring with SNMPv3 in Linux        | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-secure-network-monitoring-with-snmpv3-in-linux-592826'>Start Lab</a>                    |
+|      16 | 📖 🔵 Create VLAN Interfaces in Linux using the ip Comma... | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-create-vlan-interfaces-in-linux-using-the-ip-command-592842'>Start Lab</a>              |
+|      17 | 📖 🔵 Link Aggregation (Port Bonding) in Linux              | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-link-aggregation-port-bonding-in-linux-592851'>Start Lab</a>                            |
+|      18 | 📖 🔵 Configure and Verify IPv6 Addresses in Linux          | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-configure-and-verify-ipv6-addresses-in-linux-592858'>Start Lab</a>                      |
+|      19 | 📖 🔵 Perform IPv6 DNS Lookups in Linux                     | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-perform-ipv6-dns-lookups-in-linux-592862'>Start Lab</a>                                 |
 
 ## Environment
 
@@ -49,7 +56,7 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## More
 
-- 🔗 [CompTIA Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [CompTIA Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [CompTIA Free Tutorials](https://github.com/labex-labs/comptia-free-tutorials)
+- 🔗 [Cybersecurity Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Cybersecurity Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Cybersecurity Free Tutorials](https://github.com/labex-labs/cybersecurity-free-tutorials)
 
