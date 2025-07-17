@@ -32,6 +32,13 @@
 |             10 | 📖 🔵 Linux でのローカルホスト名解決の管理                                | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-manage-local-hostname-resolution-in-linux-592792'>ラボを開始</a>                         |
 |             11 | 📖 🔵 Linux で dig と nslookup を使って DNS レコードをクエリする          | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-query-dns-records-in-linux-with-dig-and-nslookup-592796'>ラボを開始</a>                  |
 |             12 | 📖 🔵 Linux でローカル権威 DNS サーバーをセットアップする                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-set-up-a-local-authoritative-dns-server-on-linux-592803'>ラボを開始</a>                  |
+|             13 | 📖 🔵 Linux における SSH による安全なリモートアクセス                     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-secure-remote-access-in-linux-with-ssh-592816'>ラボを開始</a>                            |
+|             14 | 📖 🔵 Linux 上の Nginx で自己署名証明書を使用した HTTPS                   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-https-with-a-self-signed-certificate-on-nginx-in-linux-592820'>ラボを開始</a>            |
+|             15 | 📖 🔵 Linux における SNMPv3 を用いたセキュアなネットワーク監視            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-secure-network-monitoring-with-snmpv3-in-linux-592826'>ラボを開始</a>                    |
+|             16 | 📖 🔵 ip コマンドを使用した Linux での VLAN インターフェイスの作成        | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-create-vlan-interfaces-in-linux-using-the-ip-command-592842'>ラボを開始</a>              |
+|             17 | 📖 🔵 Linux におけるリンクアグリゲーション（ポートボンディング）          | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-link-aggregation-port-bonding-in-linux-592851'>ラボを開始</a>                            |
+|             18 | 📖 🔵 Linux での IPv6 アドレスの設定と検証                                | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-configure-and-verify-ipv6-addresses-in-linux-592858'>ラボを開始</a>                      |
+|             19 | 📖 🔵 Linux で IPv6 DNS ルックアップを実行する                            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-perform-ipv6-dns-lookups-in-linux-592862'>ラボを開始</a>                                 |
 
 ## 環境
 
@@ -49,7 +56,7 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 
 ## その他
 
-- 🔗 [CompTIA プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [CompTIA プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [CompTIA 無料チュートリアル](https://github.com/labex-labs/comptia-free-tutorials)
+- 🔗 [Cybersecurity プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Cybersecurity プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Cybersecurity 無料チュートリアル](https://github.com/labex-labs/cybersecurity-free-tutorials)
 
