@@ -32,6 +32,13 @@
 |       10 | 📖 🔵 Управление локальным разрешением имен хостов в Lin... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-manage-local-hostname-resolution-in-linux-592792'>Начать Лабораторию</a>                         |
 |       11 | 📖 🔵 Запрос DNS-записей в Linux с помощью dig и nslooku... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-query-dns-records-in-linux-with-dig-and-nslookup-592796'>Начать Лабораторию</a>                  |
 |       12 | 📖 🔵 Настройка локального авторитетного DNS-сервера на ... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-set-up-a-local-authoritative-dns-server-on-linux-592803'>Начать Лабораторию</a>                  |
+|       13 | 📖 🔵 Безопасный удаленный доступ в Linux с помощью SSH     | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-secure-remote-access-in-linux-with-ssh-592816'>Начать Лабораторию</a>                            |
+|       14 | 📖 🔵 HTTPS с самоподписанным сертификатом на Nginx в Li... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-https-with-a-self-signed-certificate-on-nginx-in-linux-592820'>Начать Лабораторию</a>            |
+|       15 | 📖 🔵 Безопасный сетевой мониторинг с SNMPv3 в Linux        | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-secure-network-monitoring-with-snmpv3-in-linux-592826'>Начать Лабораторию</a>                    |
+|       16 | 📖 🔵 Создание интерфейсов VLAN в Linux с помощью команд... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-create-vlan-interfaces-in-linux-using-the-ip-command-592842'>Начать Лабораторию</a>              |
+|       17 | 📖 🔵 Агрегация каналов (Port Bonding) в Linux              | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-link-aggregation-port-bonding-in-linux-592851'>Начать Лабораторию</a>                            |
+|       18 | 📖 🔵 Настройка и проверка IPv6-адресов в Linux             | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-configure-and-verify-ipv6-addresses-in-linux-592858'>Начать Лабораторию</a>                      |
+|       19 | 📖 🔵 Выполнение DNS-запросов IPv6 в Linux                  | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-perform-ipv6-dns-lookups-in-linux-592862'>Начать Лабораторию</a>                                 |
 
 ## Среда
 
@@ -49,7 +56,7 @@ LabEx - это интерактивная практическая обучаю�
 
 ## Больше
 
-- 🔗 [CompTIA Курсы программирования](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [CompTIA Проекты программирования](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [CompTIA Бесплатные туториалы](https://github.com/labex-labs/comptia-free-tutorials)
+- 🔗 [Cybersecurity Курсы программирования](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Cybersecurity Проекты программирования](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Cybersecurity Бесплатные туториалы](https://github.com/labex-labs/cybersecurity-free-tutorials)
 
