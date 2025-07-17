@@ -32,6 +32,13 @@ Meistern Sie essenzielle Netzwerkkonzepte und -fähigkeiten mit praktischen Labs
 |      10 | 📖 🔵 Lokale Hostnamenauflösung unter Linux verwalten       | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-manage-local-hostname-resolution-in-linux-592792'>Labor Starten</a>                         |
 |      11 | 📖 🔵 DNS-Einträge in Linux mit dig und nslookup abfrage... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-query-dns-records-in-linux-with-dig-and-nslookup-592796'>Labor Starten</a>                  |
 |      12 | 📖 🔵 Lokalen autoritativen DNS-Server unter Linux einri... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-set-up-a-local-authoritative-dns-server-on-linux-592803'>Labor Starten</a>                  |
+|      13 | 📖 🔵 Sicherer Fernzugriff unter Linux mit SSH              | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-secure-remote-access-in-linux-with-ssh-592816'>Labor Starten</a>                            |
+|      14 | 📖 🔵 HTTPS mit einem selbstsignierten Zertifikat auf Ng... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-https-with-a-self-signed-certificate-on-nginx-in-linux-592820'>Labor Starten</a>            |
+|      15 | 📖 🔵 Sichere Netzwerküberwachung mit SNMPv3 unter Linux    | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-secure-network-monitoring-with-snmpv3-in-linux-592826'>Labor Starten</a>                    |
+|      16 | 📖 🔵 VLAN-Schnittstellen unter Linux mit dem ip-Befehl ... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-create-vlan-interfaces-in-linux-using-the-ip-command-592842'>Labor Starten</a>              |
+|      17 | 📖 🔵 Link Aggregation (Port Bonding) unter Linux           | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-link-aggregation-port-bonding-in-linux-592851'>Labor Starten</a>                            |
+|      18 | 📖 🔵 IPv6-Adressen unter Linux konfigurieren und verifi... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-configure-and-verify-ipv6-addresses-in-linux-592858'>Labor Starten</a>                      |
+|      19 | 📖 🔵 IPv6-DNS-Abfragen unter Linux durchführen             | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-perform-ipv6-dns-lookups-in-linux-592862'>Labor Starten</a>                                 |
 
 ## Umgebung
 
@@ -49,7 +56,7 @@ Erfahren Sie mehr über [LabEx VM](https://support.labex.io/using-labex/virtual-
 
 ## Mehr
 
-- 🔗 [CompTIA Programmierungskurse](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [CompTIA Programmierprojekte](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [CompTIA Kostenlose Tutorials](https://github.com/labex-labs/comptia-free-tutorials)
+- 🔗 [Cybersecurity Programmierungskurse](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Cybersecurity Programmierprojekte](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Cybersecurity Kostenlose Tutorials](https://github.com/labex-labs/cybersecurity-free-tutorials)
 
