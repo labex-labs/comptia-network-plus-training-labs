@@ -32,6 +32,13 @@
 |       10 | 📖 🔵 Linux 에서 로컬 호스트 이름 확인 관리하기                     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-manage-local-hostname-resolution-in-linux-592792'>실습 시작</a>                         |
 |       11 | 📖 🔵 Linux 에서 dig 및 nslookup 으로 DNS 레코드 쿼리하기           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-query-dns-records-in-linux-with-dig-and-nslookup-592796'>실습 시작</a>                  |
 |       12 | 📖 🔵 Linux 에서 로컬 권한 있는 DNS 서버 설정                       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-set-up-a-local-authoritative-dns-server-on-linux-592803'>실습 시작</a>                  |
+|       13 | 📖 🔵 SSH 를 이용한 Linux 보안 원격 액세스                          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-secure-remote-access-in-linux-with-ssh-592816'>실습 시작</a>                            |
+|       14 | 📖 🔵 Linux Nginx 에서 자체 서명 인증서로 HTTPS 설정하기            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-https-with-a-self-signed-certificate-on-nginx-in-linux-592820'>실습 시작</a>            |
+|       15 | 📖 🔵 Linux 에서 SNMPv3 를 사용한 안전한 네트워크 모니터링          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-secure-network-monitoring-with-snmpv3-in-linux-592826'>실습 시작</a>                    |
+|       16 | 📖 🔵 ip 명령어를 사용한 Linux VLAN 인터페이스 생성                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-create-vlan-interfaces-in-linux-using-the-ip-command-592842'>실습 시작</a>              |
+|       17 | 📖 🔵 Linux 에서의 링크 집계 (포트 본딩)                            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-link-aggregation-port-bonding-in-linux-592851'>실습 시작</a>                            |
+|       18 | 📖 🔵 Linux 에서 IPv6 주소 구성 및 확인하기                         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-configure-and-verify-ipv6-addresses-in-linux-592858'>실습 시작</a>                      |
+|       19 | 📖 🔵 Linux 에서 IPv6 DNS 조회 수행하기                             | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-perform-ipv6-dns-lookups-in-linux-592862'>실습 시작</a>                                 |
 
 ## 환경
 
@@ -49,7 +56,7 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 ## 더 보기
 
-- 🔗 [CompTIA 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [CompTIA 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [CompTIA 무료 튜토리얼](https://github.com/labex-labs/comptia-free-tutorials)
+- 🔗 [Cybersecurity 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Cybersecurity 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Cybersecurity 무료 튜토리얼](https://github.com/labex-labs/cybersecurity-free-tutorials)
 
