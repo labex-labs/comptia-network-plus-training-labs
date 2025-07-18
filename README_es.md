@@ -39,6 +39,7 @@ Domina los conceptos y habilidades esenciales de redes con laboratorios práctic
 |       17 | 📖 🔵 Agregación de Enlaces (Port Bonding) en Linux         | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-link-aggregation-port-bonding-in-linux-592851'>Iniciar Laboratorio</a>                            |
 |       18 | 📖 🔵 Configurar y Verificar Direcciones IPv6 en Linux      | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-configure-and-verify-ipv6-addresses-in-linux-592858'>Iniciar Laboratorio</a>                      |
 |       19 | 📖 🔵 Realizar búsquedas DNS de IPv6 en Linux               | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-perform-ipv6-dns-lookups-in-linux-592862'>Iniciar Laboratorio</a>                                 |
+|       20 | 📖 🔵 Configurar un túnel 6to4 de IPv4 a IPv6 en Linux      | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-configure-an-ipv4-to-ipv6-6to4-tunnel-in-linux-592867'>Iniciar Laboratorio</a>                    |
 
 ## Entorno
 
