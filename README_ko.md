@@ -39,6 +39,7 @@
 |       17 | 📖 🔵 Linux 에서의 링크 집계 (포트 본딩)                            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-link-aggregation-port-bonding-in-linux-592851'>실습 시작</a>                            |
 |       18 | 📖 🔵 Linux 에서 IPv6 주소 구성 및 확인하기                         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-configure-and-verify-ipv6-addresses-in-linux-592858'>실습 시작</a>                      |
 |       19 | 📖 🔵 Linux 에서 IPv6 DNS 조회 수행하기                             | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-perform-ipv6-dns-lookups-in-linux-592862'>실습 시작</a>                                 |
+|       20 | 📖 🔵 Linux 에서 IPv4-IPv6 6to4 터널 구성하기                       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-configure-an-ipv4-to-ipv6-6to4-tunnel-in-linux-592867'>실습 시작</a>                    |
 
 ## 환경
 
