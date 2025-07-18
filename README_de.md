@@ -39,6 +39,7 @@ Meistern Sie essenzielle Netzwerkkonzepte und -fähigkeiten mit praktischen Labs
 |      17 | 📖 🔵 Link Aggregation (Port Bonding) unter Linux           | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-link-aggregation-port-bonding-in-linux-592851'>Labor Starten</a>                            |
 |      18 | 📖 🔵 IPv6-Adressen unter Linux konfigurieren und verifi... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-configure-and-verify-ipv6-addresses-in-linux-592858'>Labor Starten</a>                      |
 |      19 | 📖 🔵 IPv6-DNS-Abfragen unter Linux durchführen             | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-perform-ipv6-dns-lookups-in-linux-592862'>Labor Starten</a>                                 |
+|      20 | 📖 🔵 Konfigurieren eines IPv4-zu-IPv6-6to4-Tunnels unte... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-configure-an-ipv4-to-ipv6-6to4-tunnel-in-linux-592867'>Labor Starten</a>                    |
 
 ## Umgebung
 
