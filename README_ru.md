@@ -39,6 +39,7 @@
 |       17 | 📖 🔵 Агрегация каналов (Port Bonding) в Linux              | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-link-aggregation-port-bonding-in-linux-592851'>Начать Лабораторию</a>                            |
 |       18 | 📖 🔵 Настройка и проверка IPv6-адресов в Linux             | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-configure-and-verify-ipv6-addresses-in-linux-592858'>Начать Лабораторию</a>                      |
 |       19 | 📖 🔵 Выполнение DNS-запросов IPv6 в Linux                  | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-perform-ipv6-dns-lookups-in-linux-592862'>Начать Лабораторию</a>                                 |
+|       20 | 📖 🔵 Настройка туннеля 6to4 IPv4-to-IPv6 в Linux           | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-configure-an-ipv4-to-ipv6-6to4-tunnel-in-linux-592867'>Начать Лабораторию</a>                    |
 
 ## Среда
 
