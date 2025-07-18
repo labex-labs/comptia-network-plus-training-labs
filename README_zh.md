@@ -39,6 +39,7 @@
 |     17 | 📖 🔵 Linux 中的链路聚合（端口绑定）                | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-link-aggregation-port-bonding-in-linux-592851'>开始实验</a>                            |
 |     18 | 📖 🔵 在 Linux 中配置和验证 IPv6 地址               | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-configure-and-verify-ipv6-addresses-in-linux-592858'>开始实验</a>                      |
 |     19 | 📖 🔵 在 Linux 中执行 IPv6 DNS 查询                 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-perform-ipv6-dns-lookups-in-linux-592862'>开始实验</a>                                 |
+|     20 | 📖 🔵 在 Linux 中配置 IPv4 到 IPv6 的 6to4 隧道     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-configure-an-ipv4-to-ipv6-6to4-tunnel-in-linux-592867'>开始实验</a>                    |
 
 ## 学习环境
 
