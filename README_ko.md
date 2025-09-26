@@ -18,28 +18,28 @@
 
 ## 연습
 
-|   인덱스 | 이름                                                                | 난이도   | 연습                                                                                                                                                 |
-|----------|---------------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 🔵 Linux 에서 MAC 및 IP 주소 식별하기                            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-identify-mac-and-ip-addresses-in-linux-592731'>실습 시작</a>                            |
-|       02 | 📖 🔵 Linux IP 주소 관리                                            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-manage-ip-addressing-in-linux-592736'>실습 시작</a>                                     |
-|       03 | 📖 🔵 Linux netstat 명령어로 네트워크 포트 및 세션 분석하기         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-analyze-network-ports-and-sessions-with-netstat-in-linux-592741'>실습 시작</a>          |
-|       04 | 📖 🔵 Linux 에서 ping 및 arp 를 사용한 네트워크 계층 상호 작용 탐색 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-explore-network-layer-interaction-with-ping-and-arp-in-linux-592746'>실습 시작</a>      |
-|       05 | 📖 🔵 Linux 에서 네트워크 계층 연결 시뮬레이션                      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-simulate-network-layer-connectivity-in-linux-592752'>실습 시작</a>                      |
-|       06 | 📖 🔵 Linux ethtool 을 사용한 네트워크 인터페이스 설정 검사         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-examine-network-interface-settings-with-ethtool-in-linux-592759'>실습 시작</a>          |
-|       07 | 📖 🔵 Linux 에서 tcpdump 를 사용하여 이더넷 프레임 분석하기         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-analyze-ethernet-frames-with-tcpdump-in-linux-592765'>실습 시작</a>                     |
-|       08 | 📖 🔵 Linux 에서 IP 주소 유형 및 네트워크 도달 가능성 탐색          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-explore-ip-address-types-and-reachability-in-linux-592780'>실습 시작</a>                |
-|       09 | 📖 🟢 Linux 터미널에서 IP 서브넷팅 및 이진 변환 수행하기            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-perform-ip-subnetting-and-binary-conversion-in-the-linux-terminal-592782'>실습 시작</a> |
-|       10 | 📖 🔵 Linux 에서 로컬 호스트 이름 확인 관리하기                     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-manage-local-hostname-resolution-in-linux-592792'>실습 시작</a>                         |
-|       11 | 📖 🔵 Linux 에서 dig 및 nslookup 으로 DNS 레코드 쿼리하기           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-query-dns-records-in-linux-with-dig-and-nslookup-592796'>실습 시작</a>                  |
-|       12 | 📖 🔵 Linux 에서 로컬 권한 있는 DNS 서버 설정                       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-set-up-a-local-authoritative-dns-server-on-linux-592803'>실습 시작</a>                  |
-|       13 | 📖 🔵 SSH 를 이용한 Linux 보안 원격 액세스                          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-secure-remote-access-in-linux-with-ssh-592816'>실습 시작</a>                            |
-|       14 | 📖 🔵 Linux Nginx 에서 자체 서명 인증서로 HTTPS 설정하기            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-https-with-a-self-signed-certificate-on-nginx-in-linux-592820'>실습 시작</a>            |
-|       15 | 📖 🔵 Linux 에서 SNMPv3 를 사용한 안전한 네트워크 모니터링          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-secure-network-monitoring-with-snmpv3-in-linux-592826'>실습 시작</a>                    |
-|       16 | 📖 🔵 ip 명령어를 사용한 Linux VLAN 인터페이스 생성                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-create-vlan-interfaces-in-linux-using-the-ip-command-592842'>실습 시작</a>              |
-|       17 | 📖 🔵 Linux 에서의 링크 집계 (포트 본딩)                            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-link-aggregation-port-bonding-in-linux-592851'>실습 시작</a>                            |
-|       18 | 📖 🔵 Linux 에서 IPv6 주소 구성 및 확인하기                         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-configure-and-verify-ipv6-addresses-in-linux-592858'>실습 시작</a>                      |
-|       19 | 📖 🔵 Linux 에서 IPv6 DNS 조회 수행하기                             | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-perform-ipv6-dns-lookups-in-linux-592862'>실습 시작</a>                                 |
-|       20 | 📖 🔵 Linux 에서 IPv4-IPv6 6to4 터널 구성하기                       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-configure-an-ipv4-to-ipv6-6to4-tunnel-in-linux-592867'>실습 시작</a>                    |
+|   인덱스 | 이름                                                              | 난이도   | 연습                                                                                                                                                   |
+|----------|-------------------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖 🆓 Linux 에서 MAC 및 IP 주소 식별하기                          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/comptia-identify-mac-and-ip-addresses-in-linux-592731'>실습 시작</a>                            |
+|       02 | 📖 🆓 Linux IP 주소 관리                                          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/comptia-manage-ip-addressing-in-linux-592736'>실습 시작</a>                                     |
+|       03 | 📖  Linux netstat 명령어로 네트워크 포트 및 세션 분석하기         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/comptia-analyze-network-ports-and-sessions-with-netstat-in-linux-592741'>실습 시작</a>          |
+|       04 | 📖  Linux 에서 ping 및 arp 를 사용한 네트워크 계층 상호 작용 탐색 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/comptia-explore-network-layer-interaction-with-ping-and-arp-in-linux-592746'>실습 시작</a>      |
+|       05 | 📖  Linux 에서 네트워크 계층 연결 시뮬레이션                      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/comptia-simulate-network-layer-connectivity-in-linux-592752'>실습 시작</a>                      |
+|       06 | 📖  Linux ethtool 을 사용한 네트워크 인터페이스 설정 검사         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/comptia-examine-network-interface-settings-with-ethtool-in-linux-592759'>실습 시작</a>          |
+|       07 | 📖  Linux 에서 tcpdump 를 사용하여 이더넷 프레임 분석하기         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/comptia-analyze-ethernet-frames-with-tcpdump-in-linux-592765'>실습 시작</a>                     |
+|       08 | 📖  Linux 에서 IP 주소 유형 및 네트워크 도달 가능성 탐색          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/comptia-explore-ip-address-types-and-reachability-in-linux-592780'>실습 시작</a>                |
+|       09 | 📖  Linux 터미널에서 IP 서브넷팅 및 이진 변환 수행하기            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/comptia-perform-ip-subnetting-and-binary-conversion-in-the-linux-terminal-592782'>실습 시작</a> |
+|       10 | 📖  Linux 에서 로컬 호스트 이름 확인 관리하기                     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/comptia-manage-local-hostname-resolution-in-linux-592792'>실습 시작</a>                         |
+|       11 | 📖  Linux 에서 dig 및 nslookup 으로 DNS 레코드 쿼리하기           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/comptia-query-dns-records-in-linux-with-dig-and-nslookup-592796'>실습 시작</a>                  |
+|       12 | 📖  Linux 에서 로컬 권한 있는 DNS 서버 설정                       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/comptia-set-up-a-local-authoritative-dns-server-on-linux-592803'>실습 시작</a>                  |
+|       13 | 📖  SSH 를 이용한 Linux 보안 원격 액세스                          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/comptia-secure-remote-access-in-linux-with-ssh-592816'>실습 시작</a>                            |
+|       14 | 📖  Linux Nginx 에서 자체 서명 인증서로 HTTPS 설정하기            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/comptia-https-with-a-self-signed-certificate-on-nginx-in-linux-592820'>실습 시작</a>            |
+|       15 | 📖  Linux 에서 SNMPv3 를 사용한 안전한 네트워크 모니터링          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/comptia-secure-network-monitoring-with-snmpv3-in-linux-592826'>실습 시작</a>                    |
+|       16 | 📖  ip 명령어를 사용한 Linux VLAN 인터페이스 생성                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/comptia-create-vlan-interfaces-in-linux-using-the-ip-command-592842'>실습 시작</a>              |
+|       17 | 📖  Linux 에서의 링크 집계 (포트 본딩)                            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/comptia-link-aggregation-port-bonding-in-linux-592851'>실습 시작</a>                            |
+|       18 | 📖  Linux 에서 IPv6 주소 구성 및 확인하기                         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/comptia-configure-and-verify-ipv6-addresses-in-linux-592858'>실습 시작</a>                      |
+|       19 | 📖  Linux 에서 IPv6 DNS 조회 수행하기                             | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/comptia-perform-ipv6-dns-lookups-in-linux-592862'>실습 시작</a>                                 |
+|       20 | 📖  Linux 에서 IPv4-IPv6 6to4 터널 구성하기                       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/comptia-configure-an-ipv4-to-ipv6-6to4-tunnel-in-linux-592867'>실습 시작</a>                    |
 
 ## 환경
 
